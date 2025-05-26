@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nihal-nihu
+- 👋 Hi, I’m Nihal
+
 - 👀 I’m interested in Web Design and UI UX
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ...
